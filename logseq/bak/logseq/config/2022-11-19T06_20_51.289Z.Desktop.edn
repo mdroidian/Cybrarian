@@ -299,7 +299,5 @@
  :publishing/all-pages-public? true
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-whiteboards? true
- :feature/enable-journals? true
- :default-home {:page "Home"}
- :feature/enable-flashcards? false
+ :feature/enable-journals? false
  }
